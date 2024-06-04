@@ -64,3 +64,11 @@ OCR and Compression is done using Stirling-PDF (https://stirlingtools.com/) that
 ## Dependencies
 
 Use dependacies from pubspec.yaml file
+
+## Contributions
+
+Contributions from the community are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
