@@ -1,6 +1,7 @@
 # Flutter PDF Editor App
 
 This project is a Flutter application for editing PDF files. It includes features for loading, viewing, and editing PDFs, performing OCR (Optical Character Recognition), and compressing PDF files. The app also displays detailed logs of operations performed, which can be saved for later analysis.
+OCR and Compression is done using Stirling-PDF (https://stirlingtools.com/) that you have to provide your own
 
 ## Features
 
